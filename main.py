@@ -1,0 +1,13 @@
+# print("Hello World!")
+# print("Hello Again")
+# print("I like typing this.")
+# print("This is fun.")
+# print('Yay! Printing.')
+# print("I'd much rather you 'not'.")
+# print('I "said" do not touch this.')
+
+print("I will now count my chickens:")
+print("Hens", 25 + 30 / 6)
+print("Roosters", 100 - 25 * 2 % 4)
+print("Now I will count the eggs:")
+print(3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6)
